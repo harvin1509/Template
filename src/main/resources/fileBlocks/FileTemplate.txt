@@ -1,6 +1,0 @@
-<?xml version="1.0">
-<Payment>
-    <NoOfTxns>1</NoOfTxns>
-    <Sender><@Sender@</Sender>
-    <Receiver><@Receiver@</Receiver>
-    <Sender><@Sender@</Sender>
